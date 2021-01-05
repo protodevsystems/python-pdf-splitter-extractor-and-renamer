@@ -12,7 +12,7 @@ Just run:
 python main.py
 
 
-- then a prompt will let you specify the filename to process (with multiple pages to split)
+- then a prompt will let you specify the filename to process (with multiple pages to split) e.g. 01.pdf 
 - filename should be in the same folder as the python file
 - it will create an "output" folder where it will save all splitted PDF files
 - Each PDF file will be named as the value indicated inside the page's Name field.
