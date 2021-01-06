@@ -4,8 +4,9 @@ This is a command-line based tool to process PDF files which has the following s
 
 Scenario:
 1. You have a PDF file that contains multiple pages
-2. Each page should be splitted into individual PDF files
-3. Each individual PDF file should be named after the Name field inside each respective page
+2. Each page is formatted the same way as the other pages but only having different values
+3. Each page should be splitted into individual PDF files
+4. Each individual PDF file should be named after the Name field inside each respective page
 
 Just run:
 
