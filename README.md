@@ -19,4 +19,9 @@ python main.py
 - Each PDF file will be named as the value indicated inside the page's Name field.
 
 
+Pip installs (if not yet installed):
+- pip install PyPDF2
+- pip install pdfminer.six  (not "pdfminer")
+
+
 Enjoy.
